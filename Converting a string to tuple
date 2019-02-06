@@ -1,0 +1,4 @@
+list=["a=b;c=d;e=f"]
+for i in list :
+ string=[(list[i],list[i+1])]
+print(string)
